@@ -8,7 +8,7 @@ url('https://i.pinimg.com/236x/48/9d/9e/489d9ebafe7424be23efcc67574e7a27--oil-fi
 #banner {
   padding-top: 22%;
   font-family:'Cutive Mono', monospace;
-  font-size:35px;
+  font-size:50px;
   display:flex;
   justify-content:center;
   color:#f45e5e;
@@ -20,6 +20,7 @@ url('https://i.pinimg.com/236x/48/9d/9e/489d9ebafe7424be23efcc67574e7a27--oil-fi
   display:flex;
   justify-content:space-around;
   color:#969696;
+  font-size:50px;
 }
 
 .navbar {
@@ -30,6 +31,7 @@ url('https://i.pinimg.com/236x/48/9d/9e/489d9ebafe7424be23efcc67574e7a27--oil-fi
   top:0;
   left:0;
   width:100%; /* Full width */
+  font-size:50px;
 }
 
 .navbar a {
